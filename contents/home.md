@@ -2,15 +2,18 @@
 
 [![EKisoner](https://img.shields.io/badge/EKisoner-github-blue?logo=github)](https://github.com/EKisoner)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+
+He is a second-year graduate student from [Institute of Robotics and Intelligent Systems](https://accu.cqu.edu.cn/kxyj/yjs/jqryznxtyjs.htm), Chongqing University. 
+His research interest includes 
 
 #### Email
-sli[at]cumt.edu.cn
+**bqxzyk88@163.com** 
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Control Science and Engineering, Chongqing University, 2023 — 2025 (expected).\
+B.E., Automation (Excellent Engineer Class), China Jiliang University, 2019 — 2023.
 
 #### Research Interests
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Robotics, Embodied Artificial Intelligence, Large Language Models & Vision-Language Models.
 
