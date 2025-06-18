@@ -10,9 +10,8 @@ He is a second-year graduate student from [Institute of Robotics and Intelligent
 
 #### Education
 M.E., Control Science and Engineering, Chongqing University, 2023 — 2026 (expected).\
-B.E., Automation (Excellent Engineer Class), China Jiliang University, 2019 — 2023.
+B.E., Automation (Excellent Engineer Class), China Jiliang University, 2019 — 2023, Outstanding Graduate of Zhejiang Province.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 Robotics, Embodied Artificial Intelligence, Large Language Models & Vision-Language Models.
 
