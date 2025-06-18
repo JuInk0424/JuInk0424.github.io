@@ -2,8 +2,8 @@
 
 - Second Prize in the National Finals of the Aerospace Intelligent Logistics Group, National Undergraduate Intelligent Vehicle Competition
 
-- Excellent Graduation Project of Jiangsu Province, 2022.第十四届中国大学生计算机设计大赛(获国赛三等奖)
+- Third Prize in the National Finals of the 14th China Undergraduate Computer Design Competition
 
-- First-prize Enterprise Scholarship, 2021.浙江省第十八届机械设计大赛(获省赛一等奖)
+- First Prize in the Provincial Finals of the 18th Zhejiang Province Mechanical Design Competition
 
-- First-prize Academic Scholarship, 21-22 浙江省政府奖学金
+- 2021–2022 Zhejiang Provincial Government Scholarship
