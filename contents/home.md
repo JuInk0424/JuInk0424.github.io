@@ -4,7 +4,6 @@
 
 
 He is a second-year graduate student from [Institute of Robotics and Intelligent Systems](https://accu.cqu.edu.cn/kxyj/yjs/jqryznxtyjs.htm), Chongqing University. 
-His research interest includes 
 
 #### Email
 **bqxzyk88@163.com** 
