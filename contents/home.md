@@ -10,7 +10,7 @@ His research interest includes
 **bqxzyk88@163.com** 
 
 #### Education
-M.E., Control Science and Engineering, Chongqing University, 2023 — 2025 (expected).\
+M.E., Control Science and Engineering, Chongqing University, 2023 — 2026 (expected).\
 B.E., Automation (Excellent Engineer Class), China Jiliang University, 2019 — 2023.
 
 #### Research Interests
